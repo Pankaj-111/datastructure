@@ -2,5 +2,5 @@
 ##  section1
 - Fizz Buzz problem
 - Palimdrome number
-- Number of zeros in a factorial of a number
+- Number of trailing zeros in a factorial of a number
 
