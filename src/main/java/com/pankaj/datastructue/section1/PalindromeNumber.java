@@ -14,7 +14,7 @@ public class PalindromeNumber {
 			reversedNum = reversedNum * 10 + pop;
 			number = number / 10;
 		}
-		// number will palimdrome if reverse == number or number == reverse without last
+		// number will palindrome if reverse == number or number == reverse without last
 		// digit
 		return reversedNum == number || number == reversedNum / 10;
 	}
