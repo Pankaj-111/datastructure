@@ -1,4 +1,4 @@
-# Datastructure Problem and solution
+# Datastructure Problem and Solution
 ## Section 1 
 1. **Fizz Buzz problem**
 2. **Palimdrome number**
