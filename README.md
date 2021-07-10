@@ -8,3 +8,5 @@
 which is further rewritten as !10 = 1 * 2 * 3 * 4 * 5 * 6 * 7 * 8 * 9 * 2 * 5 <br />
 **Answer:** Number trailing zero = 2
 4. **Power(x, n)**
+## Section 2
+1. **Reverse a String**

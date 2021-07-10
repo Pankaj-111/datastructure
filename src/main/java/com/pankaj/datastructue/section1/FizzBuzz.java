@@ -3,7 +3,7 @@ package com.pankaj.datastructue.section1;
 import java.util.ArrayList;
 import java.util.List;
 
-public class FizBuzz {
+public class FizzBuzz {
 	// write a string representation of numbers from 1 to n, if number is multiple
 	// of 3 then replace it by "Fizz",
 	// if multiple of 5 the "Buzz", if multiple of 3 and 5 then "FizzBuzz" otherwise
